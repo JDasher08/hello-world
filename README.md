@@ -1,3 +1,3 @@
 # hello-world
-Following Directions
+Following Directions.
 Not skipping lines.
